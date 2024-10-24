@@ -3,13 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ebenezerimaleko&label=Profile%20views&color=0e75b6&style=flat" alt="ebenezerimaleko" /> </p>
 
-- 🌱 I’m currently learning **Artificial Intelligence**
-
-- 💬 Ask me about **Flutter**
-
 - 📫 How to reach me **micahmjungu@gmail.com**
 
 - ⚡ Fun fact **Im an Weeb**
+  
+- 🌱 I’m currently learning **Artificial Intelligence**
+
+- 💬 Ask me about **Any Software**
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
