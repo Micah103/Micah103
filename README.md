@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ebenezerimaleko&label=Profile%20views&color=0e75b6&style=flat" alt="ebenezerimaleko" /> </p>
 
-- 📫 How to reach me **micahmjungu@gmail.com**
+- 📫 How to reach me **micahmjungu@gmail.com** / WhatsApp: **+255623660541**
 
 - ⚡ Fun fact **Im an Weeb**
   
