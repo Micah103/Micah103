@@ -1,7 +1,7 @@
 <h1 align="center">Yo 👋, Name: Abdulrahim Mjungu</h1>
 <h3 align="center">A Software developer from Tanzania</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ebenezerimaleko&label=Profile%20views&color=0e75b6&style=flat" alt="ebenezerimaleko" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=micah103&label=Profile%20views&color=0e75b6&style=flat" alt="micah103" /> </p>
 
 - 📫 How to reach me **micahmjungu@gmail.com** / WhatsApp: **+255623660541**
 
