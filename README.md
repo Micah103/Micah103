@@ -18,7 +18,7 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=micah103&show_icons=true&locale=en&layout=compact" alt="micah103" /></p>
 
 # 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=Micah103&theme=dark&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=micah103&theme=dark&hide_border=false)<br/>
 
 
 
