@@ -20,7 +20,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=micah103&theme=dark&hide_border=false)<br/>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=micah103&" alt="micah103" /></p>
+
 
 
 
