@@ -137,7 +137,9 @@
  </tr>
 </table>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=micah103&show_icons=true&locale=en&layout=compact" alt="micah103"/> </p>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=micah103&layout=compact&langs_count=8&theme=tokyonight"/>
+</p>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=micah103&theme=dark&hide_border=false)<br/>
