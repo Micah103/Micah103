@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=micah103&label=Profile%20views&color=0e75b6&style=flat" alt="micah103" /> </p>
 
-- 📫 How to reach me **micahmjungu@gmail.com** / WhatsApp: **+255623660541**
+- 📫 How to reach me **mjungu.abdulrahim@gmail.com** / WhatsApp: **+255623660541**
 
 - ⚡ Fun fact **Im an Weeb**
   
@@ -137,9 +137,7 @@
  </tr>
 </table>
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=micah103&layout=compact&langs_count=8&theme=tokyonight"/>
-</p>
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=micah103&theme=dark&hide_border=false)<br/>
